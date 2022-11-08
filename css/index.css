@@ -16,7 +16,7 @@ body {
 
 header,
 footer {
-    background-color: #BEEDAA;
+    background-color: #669b4f;
     padding: 48px;
     color: #ffffff;
 }
@@ -28,7 +28,11 @@ main {
 .main-content {
     padding: 48px;
     width: 50%;
-    background-color:#C0DA74;
+    background-color:#99aa66;
+    color: #ffffff;
+}
 
-
+.highlight {
+    color: rgb(147, 212, 133);
+    font-size: 2rem;
 }
