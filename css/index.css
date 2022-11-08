@@ -10,13 +10,13 @@ body {
     display: flex;
     height: 100%;
     flex-direction: column;
-    background-color: #D5FFD9;
+    background-color: #bedbc1;
     margin: 0;
 }
 
 header,
 footer {
-    background-color: #BEEDAA;
+    background-color: #537846;
     padding: 48px;
     color: #ffffff;
 }
@@ -28,7 +28,6 @@ main {
 .main-content {
     padding: 48px;
     width: 50%;
-    background-color:#C0DA74;
-
-
+    background-color:#7dba9d;
+    color: #ffffff;
 }
