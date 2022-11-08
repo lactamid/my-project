@@ -16,7 +16,7 @@ body {
 
 header,
 footer {
-    background-color: #94AE89;
+    background-color: #BEEDAA;
     padding: 48px;
     color: #ffffff;
 }
@@ -28,8 +28,7 @@ main {
 .main-content {
     padding: 48px;
     width: 50%;
-    background-color:#C0DA74
-     ;
+    background-color:#C0DA74;
 
 
 }
