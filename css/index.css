@@ -24,3 +24,12 @@ footer {
 main {
     flex-grow: 1;
 }
+
+.main-content {
+    padding: 48px;
+    width: 50%;
+    background-color:#C0DA74
+     ;
+
+
+}
